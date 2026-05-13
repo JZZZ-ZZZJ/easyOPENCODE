@@ -1,9 +1,9 @@
-[![EN](https://img.shields.io/badge/English-blue.svg)](README.md)
-[![中文](https://img.shields.io/badge/中文-red.svg)](README.zh-CN.md)
-
 # OpenCode CLI Utilities
 
 A set of small tools to enhance your [OpenCode CLI](https://opencode.ai) experience.
+
+[![EN](https://img.shields.io/badge/English-blue.svg)](README.md)
+[![中文](https://img.shields.io/badge/中文-red.svg)](README.zh-CN.md)
 
 ## ✨ Features
 
